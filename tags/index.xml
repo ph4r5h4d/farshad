@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Farshad Nematdoust</title>
+    <link>https://ph4r5h4d.github.io/farshad/tags/</link>
+    <description>Recent content in Tags on Farshad Nematdoust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 09 Feb 2018 21:02:00 -0430</lastBuildDate>
+    
+	<atom:link href="https://ph4r5h4d.github.io/farshad/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ph4r5h4d.github.io/farshad/tags/about/</link>
+      <pubDate>Fri, 09 Feb 2018 21:02:00 -0430</pubDate>
+      
+      <guid>https://ph4r5h4d.github.io/farshad/tags/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

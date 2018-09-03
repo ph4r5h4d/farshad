@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ph4r5h4d.github.io/farshad/about/</loc>
+    <lastmod>2018-02-09T21:02:00-04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ph4r5h4d.github.io/farshad/tags/about/</loc>
+    <lastmod>2018-02-09T21:02:00-04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ph4r5h4d.github.io/farshad/categories/about/</loc>
+    <lastmod>2018-02-09T21:02:00-04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ph4r5h4d.github.io/farshad/categories/</loc>
+    <lastmod>2018-02-09T21:02:00-04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ph4r5h4d.github.io/farshad/</loc>
+    <lastmod>2018-02-09T21:02:00-04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ph4r5h4d.github.io/farshad/tags/</loc>
+    <lastmod>2018-02-09T21:02:00-04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
