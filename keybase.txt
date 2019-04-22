@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ph4r5h4d
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://farshad.nematdoust.com
+  * I am ph4r5h4d (https://keybase.io/ph4r5h4d) on keybase.
+  * I have a public key ASCzUI_K93_bcpfqrqmMNwZwrPR5EunrUtiNpCfIFQPIEgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012028dfe822b5829abd4a01637f3e548b03b56adb294365c6bb1632a0906dacbf5a0a",
+      "host": "keybase.io",
+      "kid": "0120b3508fcaf77fdb7297eaaea98c370670acf47912e9eb52d88da427c81503c8120a",
+      "uid": "75a366bfc630e42552e84479104c4119",
+      "username": "ph4r5h4d"
+    },
+    "merkle_root": {
+      "ctime": 1555923993,
+      "hash": "9cb10fa363be414a333f4fcf8c76b678379ba233786602d16b12322f03e753bed346925f4a499c7b44350b15492fcc43f0f491be5894e93da40f356e74e10f6a",
+      "hash_meta": "936bfc5c7fca15b674ca3d481262eee045f810efc1747b604ae544aac507f672",
+      "seqno": 5216984
+    },
+    "service": {
+      "entropy": "ln+cCbQcnARkTGan9y5Plh+E",
+      "hostname": "farshad.nematdoust.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1555924014,
+  "expire_in": 504576000,
+  "prev": "eb8672bd54eb8c5021f4f2105c1422cdbc15367089a7339f6e960038a1f163e7",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgs1CPyvd/23KX6q6pjDcGcKz0eRLp61LYjaQnyBUDyBIKp3BheWxvYWTESpcCJcQg64ZyvVTrjFAh9PIQXBQizbwVNnCJpzOfbpYAOKHxY+fEIIS+Ramn9HnQ2/wruOfsFBYCkCybPisgLbzsi51WcfxgAgHCo3NpZ8RAgiTLmj7qlE3TYkX6GlLFuqiDlPu61/PC4FxGurwGxMpUVw+M5onvmyASBwk1vhIf08hM5iBRMynQv3/AAB5RCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOOghXroQ3Pul6qRpxg1r17CHC2uUNIlE++/hq2eHXm/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ph4r5h4d
+
+==================================================================
